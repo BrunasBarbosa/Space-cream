@@ -205,8 +205,9 @@ footer {
   body::before {
     background: none;
   }
- 
+
   .page {
+    overflow-y: hidden;
     height: 100vh;
     display: grid;
     grid-template-columns: 1fr 2.4fr;
@@ -218,12 +219,16 @@ footer {
     grid-area: textarea;
   }
 
+  .textarea p {
+    padding: 2rem;
+  }
+
   .card img {
     height: 100%;
   }
 
   .card h2 {
-    font-size:  clamp(1.5rem, .35rem + 1.5vw, 4rem);
+    font-size: clamp(1.5rem, .35rem + 1.5vw, 4rem);
     animation: topdown 600ms 1.1s backwards;
   }
 
