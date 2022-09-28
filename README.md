@@ -4,9 +4,9 @@
 
 ##
 
-> Grid and Animation
+> Grid
 
-Project developed using animation styles and grid concepts.
+Project developed using animation styles and grid concepts, focused on responsive layout.
 
 The page was made for devices with different screen widths. It has two breakpoints: 700px and 900px.
 
@@ -33,8 +33,11 @@ Here the cards section has a template area with four rows and three columns, the
 
 ![preview](./.github/Readme04.gif)
 
-🔗 [Click here to access](https://brunasbarbosa.github.io/Space-cream/)
+> Animation
 
+In the application's animation, the transform: translateY property was applied, moving the elements on the vertical axis.
+
+🔗 [Click here to access](https://brunasbarbosa.github.io/Space-cream/)
 ## ⚙️ Technologies
 - HTML
 - CSS
