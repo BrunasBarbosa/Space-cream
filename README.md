@@ -45,13 +45,13 @@ In the application's animation the transform: translateY property was applied, m
 
 ## ​💌 Contact me
 
-<a href="https://www.linkedin.com/in/brunas-barbosa/">
+<a href="https://www.linkedin.com/in/brunas-barbosa/" target="_blank">
   <img style="width: 64px; height: 64px;" src="https://user-images.githubusercontent.com/112329870/192917683-decc9168-7eea-4401-abf4-4f59cf5dd585.png">
 </a>
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="mailto:brunas_barbosa@hotmail.com">
+<a href="mailto:brunas_barbosa@hotmail.com" target="_blank">
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-email-communication-media-flaticons-lineal-color-flat-icons.png"/>
 </a>
 
