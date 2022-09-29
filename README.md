@@ -51,7 +51,7 @@ In the application's animation the transform: translateY property was applied, m
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="mailto:brunas_barbosa@hotmail.com" target="_blank">
+<a href="mailto:brunas_barbosa@hotmail.com">
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-email-communication-media-flaticons-lineal-color-flat-icons.png"/>
 </a>
 
