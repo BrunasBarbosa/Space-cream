@@ -35,7 +35,7 @@ Here the cards section has a template area with four rows and three columns, the
 
 > Animation
 
-In the application's animation, the transform: translateY property was applied, moving the elements on the vertical axis.
+In the application's animation the transform: translateY property was applied, moving the elements on the vertical axis.
 
 🔗 [Click here to access](https://brunasbarbosa.github.io/Space-cream/)
 ## ⚙️ Technologies
